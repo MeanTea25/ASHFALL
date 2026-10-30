@@ -1,0 +1,11 @@
+Player_Body:Suit,ShirtW,Tie,Skin,Eye,Hair,Hat,Band
+Player_Leg:Suit,Shoe
+Player_Arm:Suit,ShirtW,Skin
+Player_ArmKnife:Suit,ShirtW,Skin,Dark,Blade
+Enemy_Body:Pants,ShirtG,Vest,Pouch,Skin,Mask,Eye,Helmet
+Enemy_Leg:Pants,Pouch,Boot
+Enemy_Arm:ShirtG,Skin,Glove
+Pillar:Dark,Stone
+Crate:Wood,Band
+Tree:Bark,Leaf
+Rock:Stone
